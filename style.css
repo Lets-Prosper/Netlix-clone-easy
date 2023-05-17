@@ -52,7 +52,8 @@ body {
       rgba(0, 0, 0, 0.595),
       #00081d 40%
     ),
-    url(netflix-background.jpg);
+    url(netflix-background.png);
+  background-repeat: no-repeat;
 }
 
 .flex {
